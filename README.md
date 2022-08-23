@@ -1,12 +1,11 @@
 <h1 align="center">Hola 👋, soy j0fr4s3cr</h1>
-<h3 align="center">Soy un apasionado por la seguridad y la programación que quiere aportar un granito de arena a la comunidad</h3>
+<h3 align="center">Soy un apasionado por la seguridad y la programación que quiere aportar un granito de arena a la comunidad, queriendo apoyar a todos con una gran cantidad de contenido que puede ser de utilidad.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0fr4s3cr&label=Profile%20views&color=0e75b6&style=flat" alt="j0fr4s3cr" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/j0fr4s3cr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j0fr4s3cr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/channel/uckq6h1aiayhfbt2ejxlirqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/uckq6h1aiayhfbt2ejxlirqq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
